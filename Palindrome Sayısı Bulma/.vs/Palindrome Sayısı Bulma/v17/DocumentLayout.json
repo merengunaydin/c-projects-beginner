@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Palindrome Say\u0131s\u0131 Bulma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEC7630-2D21-4217-9917-A3E37327DC7A}|Palindrome Say\u0131s\u0131 Bulma.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Palindrome Say\u0131s\u0131 Bulma\\Palindrome Say\u0131s\u0131 Bulma.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCEC7630-2D21-4217-9917-A3E37327DC7A}|Palindrome Say\u0131s\u0131 Bulma.vcxproj|solutionrelative:Palindrome Say\u0131s\u0131 Bulma.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Palindrome Say\u0131s\u0131 Bulma.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Palindrome Say\u0131s\u0131 Bulma\\Palindrome Say\u0131s\u0131 Bulma.c",
+              "RelativeDocumentMoniker": "Palindrome Say\u0131s\u0131 Bulma.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Palindrome Say\u0131s\u0131 Bulma\\Palindrome Say\u0131s\u0131 Bulma.c",
+              "RelativeToolTip": "Palindrome Say\u0131s\u0131 Bulma.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-23T21:06:09.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

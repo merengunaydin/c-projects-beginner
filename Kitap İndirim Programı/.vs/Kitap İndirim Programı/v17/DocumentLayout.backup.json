@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Kitap \u0130ndirim Program\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019F61EE-E1A7-46CA-BAED-16B6580BF481}|Kitap \u0130ndirim Program\u0131.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Kitap \u0130ndirim Program\u0131\\Kitap \u0130ndirim Program\u0131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{019F61EE-E1A7-46CA-BAED-16B6580BF481}|Kitap \u0130ndirim Program\u0131.vcxproj|solutionrelative:Kitap \u0130ndirim Program\u0131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kitap \u0130ndirim Program\u0131.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Kitap \u0130ndirim Program\u0131\\Kitap \u0130ndirim Program\u0131.c",
+              "RelativeDocumentMoniker": "Kitap \u0130ndirim Program\u0131.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Kitap \u0130ndirim Program\u0131\\Kitap \u0130ndirim Program\u0131.c*",
+              "RelativeToolTip": "Kitap \u0130ndirim Program\u0131.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-16T20:03:35.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

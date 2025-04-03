@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Pointer \u00D6rnek 1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB92536-C1D4-4768-8053-6C52265DB1D7}|Pointer \u00D6rnek 1.3.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Pointer \u00D6rnek 1.3\\Pointer \u00D6rnek 1.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB92536-C1D4-4768-8053-6C52265DB1D7}|Pointer \u00D6rnek 1.3.vcxproj|solutionrelative:Pointer \u00D6rnek 1.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pointer \u00D6rnek 1.3.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Pointer \u00D6rnek 1.3\\Pointer \u00D6rnek 1.3.c",
+              "RelativeDocumentMoniker": "Pointer \u00D6rnek 1.3.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Pointer \u00D6rnek 1.3\\Pointer \u00D6rnek 1.3.c",
+              "RelativeToolTip": "Pointer \u00D6rnek 1.3.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-11T20:12:18.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Break ve Continue Komutlar\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{280683DA-4B74-40E4-96BE-AFD9B356A2CC}|Break ve Continue Komutlar\u0131.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Break ve Continue Komutlar\u0131\\Break ve Continue Komutlar\u0131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{280683DA-4B74-40E4-96BE-AFD9B356A2CC}|Break ve Continue Komutlar\u0131.vcxproj|solutionrelative:Break ve Continue Komutlar\u0131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Break ve Continue Komutlar\u0131.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Break ve Continue Komutlar\u0131\\Break ve Continue Komutlar\u0131.c",
+              "RelativeDocumentMoniker": "Break ve Continue Komutlar\u0131.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Break ve Continue Komutlar\u0131\\Break ve Continue Komutlar\u0131.c",
+              "RelativeToolTip": "Break ve Continue Komutlar\u0131.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-01T13:36:43.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

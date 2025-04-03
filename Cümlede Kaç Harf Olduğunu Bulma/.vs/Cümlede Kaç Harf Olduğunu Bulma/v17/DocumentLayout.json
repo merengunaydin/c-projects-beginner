@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02ED39C7-939A-469C-875E-036A0546196D}|C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma\\C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02ED39C7-939A-469C-875E-036A0546196D}|C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.vcxproj|solutionrelative:C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma\\C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.c",
+              "RelativeDocumentMoniker": "C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma\\C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.c",
+              "RelativeToolTip": "C\u00FCmlede Ka\u00E7 Harf Oldu\u011Funu Bulma.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T16:48:47.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

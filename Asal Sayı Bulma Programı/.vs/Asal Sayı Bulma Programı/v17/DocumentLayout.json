@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Asal Say\u0131 Bulma Program\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17807C0F-F603-41DA-8F1F-D5FA78A1645E}|Asal Say\u0131 Bulma Program\u0131.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Asal Say\u0131 Bulma Program\u0131\\Asal Say\u0131 Bulma Program\u0131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17807C0F-F603-41DA-8F1F-D5FA78A1645E}|Asal Say\u0131 Bulma Program\u0131.vcxproj|solutionrelative:Asal Say\u0131 Bulma Program\u0131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asal Say\u0131 Bulma Program\u0131.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Asal Say\u0131 Bulma Program\u0131\\Asal Say\u0131 Bulma Program\u0131.c",
+              "RelativeDocumentMoniker": "Asal Say\u0131 Bulma Program\u0131.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Asal Say\u0131 Bulma Program\u0131\\Asal Say\u0131 Bulma Program\u0131.c",
+              "RelativeToolTip": "Asal Say\u0131 Bulma Program\u0131.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-01T14:51:25.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

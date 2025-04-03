@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\\u0130la\u00E7 Mg Hesaplama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEEA6F0-D047-40E0-95F4-09FC6B008D6E}|\u0130la\u00E7 Mg Hesaplama.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\\u0130la\u00E7 Mg Hesaplama\\\u0130la\u00E7 Mg Hesaplama.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFEEA6F0-D047-40E0-95F4-09FC6B008D6E}|\u0130la\u00E7 Mg Hesaplama.vcxproj|solutionrelative:\u0130la\u00E7 Mg Hesaplama.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0130la\u00E7 Mg Hesaplama.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\\u0130la\u00E7 Mg Hesaplama\\\u0130la\u00E7 Mg Hesaplama.c",
+              "RelativeDocumentMoniker": "\u0130la\u00E7 Mg Hesaplama.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\\u0130la\u00E7 Mg Hesaplama\\\u0130la\u00E7 Mg Hesaplama.c",
+              "RelativeToolTip": "\u0130la\u00E7 Mg Hesaplama.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-12T19:15:12.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

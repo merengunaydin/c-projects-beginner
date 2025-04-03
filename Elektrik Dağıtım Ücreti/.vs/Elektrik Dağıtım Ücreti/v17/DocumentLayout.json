@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Elektrik Da\u011F\u0131t\u0131m \u00DCcreti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E572BE-C0A8-4222-B557-EC9D549A5591}|Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Elektrik Da\u011F\u0131t\u0131m \u00DCcreti\\Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58E572BE-C0A8-4222-B557-EC9D549A5591}|Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.vcxproj|solutionrelative:Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Elektrik Da\u011F\u0131t\u0131m \u00DCcreti\\Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.c",
+              "RelativeDocumentMoniker": "Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\Elektrik Da\u011F\u0131t\u0131m \u00DCcreti\\Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.c",
+              "RelativeToolTip": "Elektrik Da\u011F\u0131t\u0131m \u00DCcreti.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-16T15:53:12.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

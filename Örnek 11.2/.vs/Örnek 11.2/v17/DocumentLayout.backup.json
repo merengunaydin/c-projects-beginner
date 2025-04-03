@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\\u00D6rnek 11.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD0D225-AD43-4BA5-AFD7-391E5FAF5F10}|\u00D6rnek 11.2.vcxproj|H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\\u00D6rnek 11.2\\\u00D6rnek 11.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACD0D225-AD43-4BA5-AFD7-391E5FAF5F10}|\u00D6rnek 11.2.vcxproj|solutionrelative:\u00D6rnek 11.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u00D6rnek 11.2.c",
+              "DocumentMoniker": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\\u00D6rnek 11.2\\\u00D6rnek 11.2.c",
+              "RelativeDocumentMoniker": "\u00D6rnek 11.2.c",
+              "ToolTip": "H:\\Drive\u0027\u0131m\\Ki\u015Fisel\\VS\\\u00D6rnek 11.2\\\u00D6rnek 11.2.c*",
+              "RelativeToolTip": "\u00D6rnek 11.2.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-30T13:24:10.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
