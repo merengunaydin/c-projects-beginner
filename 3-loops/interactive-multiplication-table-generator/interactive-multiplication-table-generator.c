@@ -7,10 +7,8 @@ int main()
     char choice;
 
     do {
-        // Prompt the user for input
         printf("Enter the start and end values to generate a multiplication table:\n");
 
-        // Validate input values
         do {
             printf("Start: ");
             if (scanf("%d", &start) != 1) {
@@ -31,24 +29,20 @@ int main()
             }
         } while (start > end);
 
-        // Print header
         printf("\nMultiplication Table (%d to %d):\n\n", start, end);
 
-        // Print column headers
         printf("    ");
         for (int i = start; i <= end; i++) {
             printf("%4d", i);
         }
         printf("\n");
 
-        // Print separator line
         printf("   |");
         for (int i = start; i <= end; i++) {
             printf("----");
         }
         printf("\n");
 
-        // Print multiplication rows
         for (int i = start; i <= end; i++) {
             printf("%2d |", i);
             for (int j = start; j <= end; j++) {
@@ -57,7 +51,6 @@ int main()
             printf("\n");
         }
 
-        // Ask if the user wants to repeat
         printf("\nDo you want to generate another table? (y/n): ");
         scanf(" %c", &choice);
         while (getchar() != '\n');
